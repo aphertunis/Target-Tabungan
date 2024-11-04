@@ -1,3 +1,8 @@
+//Nama      : Nur Riskon Abdan Syakuro
+//  NIM       : 23176031
+//  Prodi     : Sistem Informasi
+//  Deskripsi : Program yang berisi menghitung lama tabungan mencapai saldo yang ditargetkan.
+
 public class latihan20 {
   public static void main(String[] args) {
       double saldoAwal = 3500000;
